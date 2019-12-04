@@ -1,15 +1,15 @@
 {
   "prefix": "!",
-  "groupID": 0000,
-  "bot_token": "token",
-  "rblxUserName": "username",
-  "rblxPassword": "password",
-  "rblxCookie": "cookie",
-  "welcomeMessage": "Hi there, welcome to our official communication hub!",
-  "officerRoleE": "roleName",
-  "maxXP": 0000,
-  "xpAuditLogChannelID": "0000",
-  "mainChatChannelID": "0000",
-  "fireBaseURL": "firebaseURL",
-  "xpName": "xp"
+  "groupID": 3797799,
+  "bot_token": "NjUxNTYyMDM1ODg0MDY0Nzc4.XebstQ.E_q_aBkY5To2Bk34Dr2pxeR9AiU",
+  "rblxUserName": "ViridianAutomation",
+  "rblxPassword": "zackery25236",
+  "rblxCookie": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_B1E1C2975C3C37C82B68F0B11E4C9729DDCC4BDD7E109FA0735EA4EADCA933DD193171DCC46321C98007BB30C643DE51EE63160A5A8044E74F2971AE9312044EBA08F3091E8464654CE81019032AA110010F45704F4E5CBA1D010570932089A96F19339BC7338C446BA8D82DBF5C43463FCBFC3AFCD27AF99842249921225DD672B9586280DE9B5858E34E0F10AF1B5382E0BCEEDD667630E2B503DE80D99D0553DAB0BC46216A0395EA725EB7DBA13ECC1B9C262C544D91F3DA74B024C2B5EF13702B32288C5958BDF75EC787DB05255E28B93FE5C3934EFC9291F11E8C178FA0E9E56358A37C83F5E3559126137FE838FBA042D6ECEA75EE8162BF64563506FA803AC6980B3875B5FFF67D809060ADE9A9573D3E9A523ADE6292CAEB0C05CC2520786FAE6CFA915E2C84949184936EBBC0E89C",
+  "welcomeMessage": "Hi there, welcome to Viridian Federation!",
+  "officerRoleE": "Officer",
+  "maxXP": 1,
+  "xpAuditLogChannelID": "650602840322080768",
+  "mainChatChannelID": "510691362924920832",
+  "fireBaseURL": "https://winter-armada.firebaseio.com",
+  "xpName": "Valor"
 }
